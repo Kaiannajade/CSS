@@ -1,0 +1,42 @@
+* {font-family: sans-serif;
+    }
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.row img {
+    height: 200px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+
+}
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: blanchedalmond;
+    margin: 20px;
+    padding: 20px;
+}
+
+.pink {
+    background-color: magenta;
+    justify-content: space-evenly;
+
+}
+
+.blue {
+    background-color: aqua;
+
+}
+
